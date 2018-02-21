@@ -3,9 +3,9 @@
         "title": "最新上线",
         "items": [
             {
-                "icon": "https://www.cryptokitties.co/icons/logo.svg",
+                "icon": "https://coolwallet168.github.io/kitties/images/logo.png",
                 "name": "区块猫",
-                "url": "http://192.168.1.188:5000/",
+                "url": "https://coolwallet168.github.io/kitties/",
                 "label": "游戏",
             }
         ]
