@@ -1,0 +1,13 @@
+[
+    {
+        "title": "最新上线",
+        "items": [
+            {
+                "icon": "https://www.cryptokitties.co/icons/logo.svg",
+                "name": "区块猫",
+                "url": "http://192.168.1.188:5000/",
+                "label": "游戏",
+            }
+        ]
+    }
+]
