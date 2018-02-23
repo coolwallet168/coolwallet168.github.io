@@ -3,6 +3,12 @@
         {
             "icon": "https://coolwallet168.github.io/kitties/images/logo.png",
             "name": "CryptoKitties",
+            "detail": "",
+            "url": "http://192.168.1.188:3000/"
+        },
+        {
+            "icon": "https://coolwallet168.github.io/kitties/images/logo.png",
+            "name": "CryptoKitties",
             "url": "https://coolwallet168.github.io/kitties/"
         }
     ]
