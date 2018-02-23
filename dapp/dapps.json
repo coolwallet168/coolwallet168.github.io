@@ -1,13 +1,9 @@
-[
-    {
-        "title": "最新上线",
-        "items": [
-            {
-                "icon": "https://coolwallet168.github.io/kitties/images/logo.png",
-                "name": "区块猫",
-                "url": "https://coolwallet168.github.io/kitties/",
-                "label": "游戏"
-            }
-        ]
-    }
-]
+{
+    "items": [
+        {
+            "icon": "https://coolwallet168.github.io/kitties/images/logo.png",
+            "name": "CryptoKitties",
+            "url": "https://coolwallet168.github.io/kitties/"
+        }
+    ]
+}
