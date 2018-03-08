@@ -1,10 +1,10 @@
 {
 	"android": {
 		"version": 1.0,
-		"url": "http://192.168.1.188:5000/wallet/download/K5-1.0.apk"	
+		"url": "https://www.pgyer.com/HRJA"	
 	},
 	"ios": {
-		"version": 1.0,
-		"url": "http://192.168.1.188:5000/wallet/download/K5-1.0.ipa"	
+		"version": 1.02,
+		"url": "https://www.pgyer.com/HRJA"	
 	}
 }
