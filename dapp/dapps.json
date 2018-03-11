@@ -10,11 +10,6 @@
             "name": "CryptoKitties",
             "url": "https://coolwallet168.github.io/kitties/",
             "detailUrl": "https://www.cryptokitties.co/"
-        },
-        {
-            "icon": "https://coolwallet168.github.io/blockshop/logo.png",
-            "name": "ETH 在线充值",
-            "url": "https://coolwallet168.github.io/blockshop/"
         }
     ]
 }
