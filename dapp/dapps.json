@@ -3,14 +3,18 @@
         {
             "icon": "https://ifish.im/design/bann02.png",
             "name": "iFish",
-            "url": "https://coolwallet168.github.io/ifish/",
-            "detailUrl": "https://alpha-game.ifish.im/?v1"
+            "url": "https://coolwallet168.github.io/ifish/"
         },
         {
             "icon": "https://coolwallet168.github.io/kitties/images/logo.png",
             "name": "CryptoKitties",
             "url": "https://coolwallet168.github.io/kitties/",
             "detailUrl": "https://www.cryptokitties.co/"
-        }
+        },
+        {
+            "icon": "https://ifish.im/design/bann02.png",
+            "name": "iFish 测试版",
+            "url": "https://alpha-game.ifish.im/?v1"
+        },
     ]
 }
