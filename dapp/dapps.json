@@ -16,6 +16,11 @@
             "name": "iFish 测试版",
             "type": "game",
             "url": "https://alpha-game.ifish.im/?v10"
-        }
+        },
+        {
+            "icon": "https://coolwallet168.github.io/blockshop/logo.png",
+            "name": "ETH 在线充值",
+            "url": "https://coolwallet168.github.io/blockshop/"
+         }
     ]
 }
