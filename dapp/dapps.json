@@ -21,6 +21,11 @@
             "icon": "https://coolwallet168.github.io/blockshop/logo.png",
             "name": "ETH 在线充值",
             "url": "https://coolwallet168.github.io/blockshop/"
-         }
+         },
+        {
+            "icon": "https://coolwallet168.github.io/dapp/pyds.jpg",
+            "name": "捕鱼大师公测版",
+            "url": "https://ifish.im/games/145331/pydr.html?1"
+        }
     ]
 }
