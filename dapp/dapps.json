@@ -3,19 +3,14 @@
         {
             "icon": "https://ifish.im/design/bann02.png",
             "name": "iFish",
-            "url": "https://coolwallet168.github.io/ifish/"
+            "url": "https://coolwallet168.github.io/ifish/",
+            "detailUrl": "https://game.ifish.im/",
         },
         {
             "icon": "https://coolwallet168.github.io/kitties/images/logo.png",
             "name": "CryptoKitties",
             "url": "https://coolwallet168.github.io/kitties/",
             "detailUrl": "https://www.cryptokitties.co/"
-        },
-        {
-            "icon": "https://ifish.im/design/bann02.png",
-            "name": "iFish 云鱼",
-            "type": "game",
-            "url": "https://game.ifish.im/"
         },
         {
             "icon": "https://coolwallet168.github.io/blockshop/logo.png",
@@ -27,6 +22,12 @@
             "name": "捕鱼大师公测版",
             "type": "game",
             "url": "https://ifish.im/games/145331/pydr.html?1"
+        },
+        {
+            "icon": "https://coolwallet168.github.io/dapp/xqhq.jpg",
+            "name": "小球环绕 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/197189/index.html"
         }
     ]
 }
