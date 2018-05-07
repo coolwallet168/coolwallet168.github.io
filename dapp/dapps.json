@@ -28,6 +28,18 @@
             "name": "小球环绕 公测版",
             "type": "game",
             "url": "https://ifish.im/games/197189/index.html"
+        },
+        {
+            "icon": "https://ifish.im/games/188187/99BallsTeaser.jpg",
+            "name": "弹球大作战 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/188187/index.html"
+        },
+        {
+            "icon": "https://ifish.im/games/197015/icon.png",
+            "name": "激光光束 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/197015/index.html"
         }
     ]
 }
