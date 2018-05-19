@@ -42,16 +42,16 @@
             "url": "https://ifish.im/games/197015/index.html"
         },
         {
-            "icon": "https://ifish.im/games/2248/index.html",
+            "icon": "https://ifish.im/games/2248/icon.png",
             "name": "2248 公测版",
             "type": "game",
-            "url": "https://ifish.im/games/2248/icon.png"
+            "url": "https://ifish.im/games/2248/index.html"
         },
         {
-            "icon": "https://ifish.im/games/hjkg/index.html",
+            "icon": "https://ifish.im/games/hjkg/icon-256.png",
             "name": "黄金矿工 公测版",
             "type": "game",
-            "url": "https://ifish.im/games/hjkg/icon-256.png"
+            "url": "https://ifish.im/games/hjkg/index.html"
         }
     ]
 }
