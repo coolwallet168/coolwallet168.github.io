@@ -46,6 +46,12 @@
             "name": "2248 公测版",
             "type": "game",
             "url": "https://ifish.im/games/2248/icon.png"
+        },
+        {
+            "icon": "https://ifish.im/games/hjkg/index.html",
+            "name": "黄金矿工 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/hjkg/icon-256.png"
         }
     ]
 }
