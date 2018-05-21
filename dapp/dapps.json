@@ -52,6 +52,12 @@
             "name": "黄金矿工 公测版",
             "type": "game",
             "url": "https://ifish.im/games/hjkg/index.html"
+        },
+        {
+            "icon": "https://ifish.im/games/jfcd/icon-256.png",
+            "name": "见缝插刀 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/jfcd/index.html"
         }
     ]
 }
