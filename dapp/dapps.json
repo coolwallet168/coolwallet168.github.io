@@ -58,6 +58,12 @@
             "name": "见缝插刀 公测版",
             "type": "game",
             "url": "https://ifish.im/games/jfcd/index.html"
+        },
+        {
+            "icon": "https://ifish.im/games/bunny-goes-boom/icon.png",
+            "name": "火箭上的兔子 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/bunny-goes-boom/index.html"
         }
     ]
 }
