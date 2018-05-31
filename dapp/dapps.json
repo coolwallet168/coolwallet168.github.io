@@ -64,6 +64,12 @@
             "name": "火箭上的兔子 公测版",
             "type": "game",
             "url": "https://ifish.im/games/bunny-goes-boom/index.html"
+        },
+        {
+            "icon": "https://ifish.im/games/jumpee-land/icon.jpg",
+            "name": "小鸟跳一跳 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/jumpee-land/index.html"
         }
     ]
 }
