@@ -1,10 +1,10 @@
 {
 	"android": {
-		"version": 1.07,
+		"version": 1.08,
 		"url": "https://www.pgyer.com/LS4Y"	
 	},
 	"ios": {
-		"version": 1.06,
+		"version": 1.08,
 		"url": "https://www.pgyer.com/HRJA"	
 	}
 }
