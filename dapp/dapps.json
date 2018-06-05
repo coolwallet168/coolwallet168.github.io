@@ -76,6 +76,12 @@
             "name": "雪山滚球 公测版",
             "type": "game",
             "url": "https://ifish.im/games/chilly-snow-ball/index.html"
+        },
+        {
+            "icon": "https://ifish.im/games/deliver-pro/icon-256.png",
+            "name": "工厂零件分类 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/deliver-pro/index.html"
         }
     ]
 }
