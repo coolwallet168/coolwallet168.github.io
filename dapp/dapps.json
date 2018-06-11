@@ -82,6 +82,12 @@
             "name": "工厂零件分类 公测版",
             "type": "game",
             "url": "https://ifish.im/games/deliver-pro/index.html"
+        },
+        {
+            "icon": "https://ifish.im/games/hlclmx/icon.jpg",
+            "name": "狐狸丛林冒险 公测版",
+            "type": "game",
+            "url": "https://ifish.im/games/hlclmx/index.html"
         }
     ]
 }
