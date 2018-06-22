@@ -18,6 +18,11 @@
             "url": "https://coolwallet168.github.io/blockshop/"
          },
         {
+            "icon": "https://ifish.im/games/world-cup-2018/icon.png",
+            "name": "世界杯冠军竞猜",
+            "url": "https://ifish.im/games/world-cup-2018/index.html"
+        },
+        {
             "icon": "https://coolwallet168.github.io/dapp/pyds.jpg",
             "name": "捕鱼大师",
             "type": "game",
